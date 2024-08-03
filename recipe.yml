@@ -46,6 +46,7 @@ stages:
           - libnvidia-glvkspirv
           - libnvidia-gpucomp
           - libnvidia-fbc1
+          - libnvidia-egl-wayland1
           - nvidia-container-toolkit
 
   - name: extra-utilities
